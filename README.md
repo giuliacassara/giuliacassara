@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Giulia Cassara!
+- 👋 Hi, I’m Giulia Cassarà!
 - 🚀 I'm a Machine Learning engineer with great passion for computer architectures
-- 👨‍💻 Research Intern at Intel (working on Parallel Computing for Deep Learning)
 - 📚 Read my latest posts here https://cassaragiulia.ai/
 
 <!---
