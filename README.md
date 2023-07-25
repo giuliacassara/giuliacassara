@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giulia Cassarà!
-- 🚀 I'm a Machine Learning engineer with great passion for computer architectures
+- 🚀 I'm a Software engineer passionate about deep learning, computer architectures and compilers! 
 - 📚 Read my latest posts here https://cassaragiulia.ai/
 
 <!---
